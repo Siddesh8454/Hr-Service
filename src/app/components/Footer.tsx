@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Mail, MapPin, Phone, Linkedin, Facebook, Instagram } from "lucide-react";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "./ui/dialog";
-import logo from "../../assets/dd8fdae25e94fcfb3f9190c2635746d3bbc3f44e.png";
+import logo from "../../assets/kvsb-logo-updated.jpeg";
 
 export function Footer() {
   const [showPrivacy, setShowPrivacy] = useState(false);
